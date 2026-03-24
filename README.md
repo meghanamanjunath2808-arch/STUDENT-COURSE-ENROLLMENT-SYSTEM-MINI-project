@@ -1,2 +1,1 @@
-# STUDENT-COURSE-ENROLLMENT-SYSTEM-MINI-project
-STUDENT COURSE ENROLLMENT SYSTEM - MINI PROJECT
+The Student Course Enrollment System is a mini SQL-based project designed to manage student records, course details, enrollments, exams, and results. It demonstrates core database concepts such as table relationships, constraints, triggers, stored procedures, functions, and views.
